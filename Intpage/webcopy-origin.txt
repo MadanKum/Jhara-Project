@@ -1,0 +1,1916 @@
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/extra-libs/calendar/calendar.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\extra-libs\calendar\calendar.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/extra-libs/DataTables/datatables.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\extra-libs\DataTables\datatables.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/extra-libs/multicheck/datatable-checkbox-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\extra-libs\multicheck\datatable-checkbox-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/extra-libs/multicheck/jquery.multicheck.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\extra-libs\multicheck\jquery.multicheck.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/extra-libs/multicheck/multicheck.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\extra-libs\multicheck\multicheck.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/extra-libs/sparkline/sparkline.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\extra-libs\sparkline\sparkline.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/background/img4.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\background\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/background/img5.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\background\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/big/img1.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\big\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/big/img2.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\big\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/big/img3.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\big\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/big/img4.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\big\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/big/img5.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\big\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/big/img6.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\big\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/favicon.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/logo-icon.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\logo-icon.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/logo-text.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\logo-text.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/logo.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/users/1.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\users\1.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/users/2.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\users\2.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/users/3.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\users\3.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/users/4.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\users\4.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/images/users/5.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\images\users\5.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\bootstrap-datepicker\dist\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\bootstrap-datepicker\dist\js\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/chart/excanvas.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\chart\excanvas.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/chart/jquery.flot.pie.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\chart\jquery.flot.pie.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/chart/jquery.peity.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\chart\jquery.peity.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/chart/matrix.charts.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\chart\matrix.charts.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/chart/matrix.interface.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\chart\matrix.interface.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/chart/turning-series.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\chart\turning-series.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\datatables.net-bs4\css\dataTables.bootstrap4.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot.tooltip/js/jquery.flot.tooltip.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot.tooltip\js\jquery.flot.tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/css/float-chart.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\css\float-chart.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/excanvas.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\excanvas.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/jquery.flot.crosshair.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\jquery.flot.crosshair.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/jquery.flot.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/jquery.flot.pie.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\jquery.flot.pie.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/jquery.flot.stack.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\jquery.flot.stack.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/flot/jquery.flot.time.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\flot\jquery.flot.time.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/fullcalendar/dist/fullcalendar.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\fullcalendar\dist\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/fullcalendar/dist/fullcalendar.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\fullcalendar\dist\fullcalendar.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/inputmask/dist/min/jquery.inputmask.bundle.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\inputmask\dist\min\jquery.inputmask.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-asColor/dist/jquery-asColor.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-asColor\dist\jquery-asColor.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-asColorPicker/dist/jquery-asColorPicker.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-asColorPicker\dist\jquery-asColorPicker.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-asGradient/dist/jquery-asGradient.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-asGradient\dist\jquery-asGradient.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-minicolors/jquery.minicolors.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-minicolors\jquery.minicolors.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-minicolors/jquery.minicolors.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-minicolors\jquery.minicolors.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-steps/build/jquery.steps.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-steps\build\jquery.steps.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-steps/jquery.steps.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-steps\jquery.steps.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-steps/steps.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-steps\steps.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery-validation/dist/jquery.validate.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery-validation\dist\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/jquery/dist/jquery.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\magnific-popup\dist\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/magnific-popup/dist/magnific-popup.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\magnific-popup\dist\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/magnific-popup/meg.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\magnific-popup\meg.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/moment/min/moment.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\moment\min\moment.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\perfect-scrollbar\dist\perfect-scrollbar.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/quill/dist/quill.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\quill\dist\quill.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/quill/dist/quill.snow.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\quill\dist\quill.snow.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/select2/dist/css/select2.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\select2\dist\css\select2.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/select2/dist/js/select2.full.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\select2\dist\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/select2/dist/js/select2.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\select2\dist\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/toastr/build/toastr.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\toastr\build\toastr.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/assets/libs/toastr/build/toastr.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\assets\libs\toastr\build\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/css/style.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\css\style.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/custom.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\custom.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/jquery-ui.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/jquery.ui.touch-punch-improved.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\jquery.ui.touch-punch-improved.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/pages/calendar/cal-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\pages\calendar\cal-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/pages/chart/chart-page-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\pages\chart\chart-page-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/pages/mask/mask.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\pages\mask\mask.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/sidebarmenu.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\sidebarmenu.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/dist/js/waves.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\dist\js\waves.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/authentication-login.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\authentication-login.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/authentication-register.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\authentication-register.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/charts.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\charts.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/error-403.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\error-403.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/error-404.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\error-404.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/error-405.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\error-405.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/error-500.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\error-500.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/form-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\form-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/form-wizard.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\form-wizard.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/grid.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\grid.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/icon-fontawesome.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\icon-fontawesome.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/icon-material.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\icon-material.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/index.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\index.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/index2.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\index2.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/pages-buttons.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\pages-buttons.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/pages-calendar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\pages-calendar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/pages-chat.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\pages-chat.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/pages-elements.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\pages-elements.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/pages-gallery.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\pages-gallery.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/pages-invoice.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\pages-invoice.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/tables.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\tables.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/free-admin-templates/bootstrap/matrix-bootstrap-free/html/widgets.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\free-admin-templates\bootstrap\matrix-bootstrap-free\html\widgets.html
+Content Type: text/html
+
+tps://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/images/users/d2.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\images\users\d2.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/images/users/d3.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\images\users\d3.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/images/users/d4.jpg
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\images\users\d4.jpg
+Content Type: image/jpeg
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/images/users/profile.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\images\users\profile.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/libs/jsgrid/db.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\libs\jsgrid\db.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/libs/jsgrid/jsgrid-theme.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\libs\jsgrid\jsgrid-theme.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/libs/jsgrid/jsgrid.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\libs\jsgrid\jsgrid.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/assets/libs/jsgrid/jsgrid.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\assets\libs\jsgrid\jsgrid.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/css/style.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\css\style.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/app-style-switcher.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\app-style-switcher.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/app.init.dark.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\app.init.dark.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/app.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\app.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/custom.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\custom.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/feather.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\feather.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/apex-chart/apex.area.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\apex-chart\apex.area.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/apex-chart/apex.bar.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\apex-chart\apex.bar.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/apex-chart/apex.line.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\apex-chart\apex.line.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/apex-chart/apex.pie.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\apex-chart\apex.pie.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/apex-chart/apex.radar.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\apex-chart\apex.radar.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/apex-chart/apex.radial.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\apex-chart\apex.radial.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-category-axis.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-category-axis.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-rotated-axis.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-rotated-axis.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-tick-culling.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-tick-culling.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-tick-fitting.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-tick-fitting.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-timezone.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-timezone.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-y-axis-range.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-y-axis-range.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/axis/c3-y-axis.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\axis\c3-y-axis.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/bar-pie/c3-bar.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\bar-pie\c3-bar.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/bar-pie/c3-column.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\bar-pie\c3-column.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/bar-pie/c3-donut.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\bar-pie\c3-donut.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/bar-pie/c3-pie.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\bar-pie\c3-pie.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/bar-pie/c3-stacked-bar.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\bar-pie\c3-stacked-bar.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/bar-pie/c3-stacked-column.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\bar-pie\c3-stacked-column.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/data/c3-category-data.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\data\c3-category-data.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/data/c3-column-oriented.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\data\c3-column-oriented.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/data/c3-data-color.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\data\c3-data-color.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/data/c3-data-from-url.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\data\c3-data-from-url.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/data/c3-data-order.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\data\c3-data-order.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/data/c3-row-oriented.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\data\c3-row-oriented.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-area.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-area.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-line-region.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-line-region.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-line.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-line.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-multiple-xy.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-multiple-xy.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-simple-xy.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-simple-xy.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-spline.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-spline.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/c3-chart/line/c3-step.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\c3-chart\line\c3-step.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/calendar/cal-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\calendar\cal-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/chartist/chartist-init.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\chartist\chartist-init.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/chartist/chartist-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\chartist\chartist-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/chartist/chartist-plugin-tooltip.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\chartist\chartist-plugin-tooltip.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/chartjs/chartjs.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\chartjs\chartjs.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/chat/chat.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\chat\chat.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/contact/contact.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\contact\contact.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/dashboards/dashboard1.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\dashboards\dashboard1.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/dashboards/dashboard2.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\dashboards\dashboard2.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/dashboards/dashboard3.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\dashboards\dashboard3.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/dashboards/dashboard4.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\dashboards\dashboard4.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/dashboards/dashboard5.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\dashboards\dashboard5.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/dashboards/dashboard6.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\dashboards\dashboard6.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/datatable/datatable-advanced.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\datatable\datatable-advanced.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/datatable/datatable-api.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\datatable\datatable-api.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/datatable/datatable-basic.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\datatable\datatable-basic.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/datatable/details_close.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\datatable\details_close.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/datatable/details_open.png
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\datatable\details_open.png
+Content Type: image/png
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/echarts/bar/bar.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\echarts\bar\bar.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/echarts/line/line-charts.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\echarts\line\line-charts.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/echarts/pie-doughnut/pie-doghnut.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\echarts\pie-doughnut\pie-doghnut.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/email/email.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\email\email.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/flot/flot-data.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\flot\flot-data.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/bootstrap-touchspin/form-bootstrap-touchspin.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\bootstrap-touchspin\form-bootstrap-touchspin.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/datetimepicker/datetimepicker.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\datetimepicker\datetimepicker.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/dual-listbox/dual-listbox.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\dual-listbox\dual-listbox.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/img-cropper/cropper.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\img-cropper\cropper.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/jasny-bootstrap.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\jasny-bootstrap.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/mask/mask.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\mask\mask.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/select2/select2.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\select2\select2.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/sweetalert2/sweet-alert.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\sweetalert2\sweet-alert.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/forms/typeahead/typeahead.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\forms\typeahead\typeahead.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/invoice/invoice.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\invoice\invoice.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/maps/map-google.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\maps\map-google.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/morris/morris-data.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\morris\morris-data.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/notes/notes.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\notes\notes.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/samplepages/jquery.PrintArea.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\samplepages\jquery.PrintArea.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/sparkline/jquery.charts-sparkline.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\sparkline\jquery.charts-sparkline.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/tables/bootstrap-table.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\tables\bootstrap-table.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/tables/jsgrid-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\tables\jsgrid-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/todo/todo.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\todo\todo.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/widget/card-custom.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\widget\card-custom.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/pages/widget/widget-charts.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\pages\widget\widget-charts.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/block-ui.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\block-ui.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/bootstrap-treeview-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\bootstrap-treeview-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/footable-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\footable-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/horizontal-timeline.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\horizontal-timeline.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/meg.init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\meg.init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/mindmup-editabletable.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\mindmup-editabletable.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/nouislider-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\nouislider-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/numeric-input-example.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\numeric-input-example.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/rating-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\rating-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/repeater-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\repeater-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/plugins/toastr-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\plugins\toastr-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/sidebarmenu.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\sidebarmenu.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/js/waves.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\js\waves.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/@claviska/jquery-minicolors/jquery.minicolors.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\@claviska\jquery-minicolors\jquery.minicolors.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/@claviska/jquery-minicolors/jquery.minicolors.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\@claviska\jquery-minicolors\jquery.minicolors.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/apexcharts/dist/apexcharts.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\apexcharts\dist\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/block-ui/jquery.blockUI.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\block-ui\jquery.blockUI.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-datepaginator/dist/bootstrap-datepaginator.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-datepaginator\dist\bootstrap-datepaginator.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-datepaginator/dist/bootstrap-datepaginator.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-datepaginator\dist\bootstrap-datepaginator.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-datepicker\dist\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-datepicker\dist\js\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-duallistbox/dist/bootstrap-duallistbox.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-duallistbox\dist\bootstrap-duallistbox.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-duallistbox/dist/jquery.bootstrap-duallistbox.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-duallistbox\dist\jquery.bootstrap-duallistbox.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-material-datetimepicker/node_modules/moment/moment.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-material-datetimepicker\node_modules\moment\moment.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-switch/dist/css/bootstrap3/bootstrap-switch.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-switch\dist\css\bootstrap3\bootstrap-switch.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-switch/dist/js/bootstrap-switch.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-switch\dist\js\bootstrap-switch.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-table/dist/bootstrap-table.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-table\dist\bootstrap-table.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-table/dist/bootstrap-table.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-table\dist\bootstrap-table.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-touchspin\dist\jquery.bootstrap-touchspin.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-touchspin\dist\jquery.bootstrap-touchspin.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap-tree/dist/bootstrap-treeview.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap-tree\dist\bootstrap-treeview.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap/dist/js/bootstrap.bundle.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap4-toggle/css/bootstrap4-toggle.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap4-toggle\css\bootstrap4-toggle.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/bootstrap4-toggle/js/bootstrap4-toggle.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\bootstrap4-toggle\js\bootstrap4-toggle.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/c3/c3.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\c3\c3.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/c3/htdocs/js/c3-0.4.9.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\c3\htdocs\js\c3-0.4.9.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/c3/htdocs/js/d3-3.5.6.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\c3\htdocs\js\d3-3.5.6.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/chart.js-modder/dist/Chart.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\chart.js-modder\dist\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\chartist-plugin-tooltips\dist\chartist-plugin-tooltip.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\chartist-plugin-tooltips\dist\chartist-plugin-tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/chartist/dist/chartist.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\chartist\dist\chartist.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/chartist/dist/chartist.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\chartist\dist\chartist.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/ckeditor/ckeditor.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\ckeditor\ckeditor.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/ckeditor/samples/css/samples.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\ckeditor\samples\css\samples.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/ckeditor/samples/js/sample.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\ckeditor\samples\js\sample.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\ckeditor\samples\toolbarconfigurator\lib\codemirror\neo.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/cropper/dist/cropper.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\cropper\dist\cropper.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/cropper/dist/cropper.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\cropper\dist\cropper.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/datatables.net-bs5/css/dataTables.bootstrap5.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\datatables.net-bs5\css\dataTables.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/datatables.net/js/jquery.dataTables.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\datatables.net\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/daterangepicker/daterangepicker.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/daterangepicker/daterangepicker.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\daterangepicker\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/dragula/dist/dragula.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\dragula\dist\dragula.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/dragula/dist/dragula.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\dragula\dist\dragula.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/dropzone/dist/min/dropzone.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\dropzone\dist\min\dropzone.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/dropzone/dist/min/dropzone.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\dropzone\dist\min\dropzone.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/echarts/dist/echarts.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\echarts\dist\echarts.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/flot/dist/es5/jquery.flot.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\flot\dist\es5\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/footable-v3/compiled/footable.bootstrap.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\footable-v3\compiled\footable.bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/footable-v3/compiled/footable.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\footable-v3\compiled\footable.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/fullcalendar/index.global.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\fullcalendar\index.global.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/gaugeJS/dist/gauge.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\gaugeJS\dist\gauge.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/gmaps/gmaps.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\gmaps\gmaps.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/inputmask/dist/jquery.inputmask.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\inputmask\dist\jquery.inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-asColor/dist/jquery-asColor.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-asColor\dist\jquery-asColor.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-asColorPicker/dist/jquery-asColorPicker.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-asColorPicker\dist\jquery-asColorPicker.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-asGradient/dist/jquery-asGradient.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-asGradient\dist\jquery-asGradient.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-raty-js/lib/jquery.raty.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-raty-js\lib\jquery.raty.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-raty-js/lib/jquery.raty.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-raty-js\lib\jquery.raty.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-sparkline/jquery.sparkline.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-sparkline\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-steps/build/jquery.steps.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-steps\build\jquery.steps.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery-validation/dist/jquery.validate.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery-validation\dist\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery.flot.tooltip/js/jquery.flot.tooltip.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery.flot.tooltip\js\jquery.flot.tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery.flot/excanvas.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery.flot\excanvas.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery.flot/jquery.flot.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery.flot\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery.repeater/jquery.repeater.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery.repeater\jquery.repeater.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jquery/dist/jquery.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jvectormap/jquery-jvectormap.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jvectormap\jquery-jvectormap.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/jvectormap/jquery-jvectormap.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\jvectormap\jquery-jvectormap.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/magnific-popup/dist/jquery.magnific-popup.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\magnific-popup\dist\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/magnific-popup/dist/magnific-popup.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\magnific-popup\dist\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/moment-js/build/moment.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\moment-js\build\moment.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/moment-js/moment.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\moment-js\moment.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/moment/min/moment.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\moment\min\moment.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/morris.js/morris.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\morris.js\morris.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/morris.js/morris.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\morris.js\morris.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/nestable/jquery.nestable.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\nestable\jquery.nestable.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/nouislider-orxe/distribute/nouislider.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\nouislider-orxe\distribute\nouislider.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/nouislider-orxe/distribute/nouislider.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\nouislider-orxe\distribute\nouislider.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/perfect-scrollbar/dist/js/perfect-scrollbar.jquery.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\perfect-scrollbar\dist\js\perfect-scrollbar.jquery.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/compressed/legacy.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\compressed\legacy.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/compressed/picker.date.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\compressed\picker.date.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/compressed/picker.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\compressed\picker.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/compressed/picker.time.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\compressed\picker.time.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/themes/default.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\themes\default.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/themes/default.date.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\themes\default.date.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/pickadate-jalaali/lib/themes/default.time.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\pickadate-jalaali\lib\themes\default.time.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/popper.js/dist/umd/popper.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\popper.js\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/prismjs/prism.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\prismjs\prism.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/prismjs/themes/prism-okaidia.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\prismjs\themes\prism-okaidia.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/quill/dist/quill.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\quill\dist\quill.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/quill/dist/quill.snow.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\quill\dist\quill.snow.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/raphael/raphael.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\raphael\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/select2/dist/css/select2.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\select2\dist\css\select2.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/select2/dist/js/select2.full.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\select2\dist\js\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/select2/dist/js/select2.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\select2\dist\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/sweetalert2/dist/sweetalert2.all.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\sweetalert2\dist\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/sweetalert2/dist/sweetalert2.min.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/tablesaw/dist/tablesaw-init.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\tablesaw\dist\tablesaw-init.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/tablesaw/dist/tablesaw.css
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\tablesaw\dist\tablesaw.css
+Content Type: text/css
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/tablesaw/dist/tablesaw.jquery.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\tablesaw\dist\tablesaw.jquery.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/tinymce/tinymce.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\tinymce\tinymce.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/typeahead.js/dist/bloodhound.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\typeahead.js\dist\bloodhound.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/typeahead.js/dist/typeahead.jquery.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\typeahead.js\dist\typeahead.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/vanilla-datatables-editable/datatable.editable.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\vanilla-datatables-editable\datatable.editable.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/dist/libs/wnumb/wNumb.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\dist\libs\wnumb\wNumb.min.js
+Content Type: application/javascript
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-calendar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-calendar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-chats.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-chats.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-contacts.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-contacts.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-invoice.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-invoice.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-notes.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-notes.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-taskboard.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-taskboard.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/app-todo.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\app-todo.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-lockscreen.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-lockscreen.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-login1.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-login1.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-login2.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-login2.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-login3.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-login3.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-recover-password.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-recover-password.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-register1.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-register1.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/authentication-register2.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\authentication-register2.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-apex-area.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-apex-area.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-apex-bar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-apex-bar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-apex-line.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-apex-line.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-apex-pie.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-apex-pie.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-apex-radar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-apex-radar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-apex-radial.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-apex-radial.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-c3-axis.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-c3-axis.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-c3-bar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-c3-bar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-c3-data.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-c3-data.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-c3-line.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-c3-line.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-chart-js.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-chart-js.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-chartist.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-chartist.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-echart-bar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-echart-bar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-echart-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-echart-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-echart-pie-doughnut.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-echart-pie-doughnut.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-flot.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-flot.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-morris.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-morris.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/chart-sparkline.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\chart-sparkline.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/component-nestable.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\component-nestable.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/component-noui-slider.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\component-noui-slider.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/component-rating.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\component-rating.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/component-sweetalert.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\component-sweetalert.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/component-toastr.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\component-toastr.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/eco-products-cart.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\eco-products-cart.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/eco-products-checkout.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\eco-products-checkout.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/eco-products-detail.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\eco-products-detail.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/eco-products-edit.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\eco-products-edit.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/eco-products-orders.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\eco-products-orders.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/eco-products.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\eco-products.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/email-templete-alert.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\email-templete-alert.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/email-templete-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\email-templete-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/email-templete-billing.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\email-templete-billing.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/email-templete-password-reset.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\email-templete-password-reset.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/error-400.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\error-400.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/error-403.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\error-403.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/error-404.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\error-404.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/error-500.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\error-500.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/error-503.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\error-503.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-actions.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-actions.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-bootstrap-switch.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-bootstrap-switch.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-bootstrap-touchspin.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-bootstrap-touchspin.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-bootstrap-validation.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-bootstrap-validation.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-bordered.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-bordered.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-checkbox-radio.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-checkbox-radio.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-custom-checkbox-radio.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-custom-checkbox-radio.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-custom-validation.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-custom-validation.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-detail.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-detail.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-dropzone.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-dropzone.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-dual-listbox.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-dual-listbox.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-editor-ckeditor.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-editor-ckeditor.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-editor-quill.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-editor-quill.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-editor-summernote.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-editor-summernote.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-editor-tinymce.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-editor-tinymce.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-floating-input.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-floating-input.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-horizontal.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-horizontal.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-img-cropper.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-img-cropper.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-input-grid.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-input-grid.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-input-groups.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-input-groups.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-inputs.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-inputs.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-mask.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-mask.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-material.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-material.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-paginator.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-paginator.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-picker-bootstrap-datepicker.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-picker-bootstrap-datepicker.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-picker-bootstrap-rangepicker.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-picker-bootstrap-rangepicker.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-picker-colorpicker.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-picker-colorpicker.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-picker-datetimepicker.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-picker-datetimepicker.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-picker-material-datepicker.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-picker-material-datepicker.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-repeater.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-repeater.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-row-separator.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-row-separator.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-select2.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-select2.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-striped-row.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-striped-row.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-typeahead.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-typeahead.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/form-wizard.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\form-wizard.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-feather.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-feather.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-flag.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-flag.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-fontawesome.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-fontawesome.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-material.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-material.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-simple-lineicon.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-simple-lineicon.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-themify.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-themify.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/icon-weather.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\icon-weather.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/inbox-email-compose.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\inbox-email-compose.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/inbox-email-detail.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\inbox-email-detail.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/inbox-email.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\inbox-email.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/index.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\index.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/index2.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\index2.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/index3.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\index3.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/index4.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\index4.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/index5.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\index5.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/index6.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\index6.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/layout-inner-fixed-left-sidebar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\layout-inner-fixed-left-sidebar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/layout-inner-fixed-right-sidebar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\layout-inner-fixed-right-sidebar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/layout-inner-left-sidebar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\layout-inner-left-sidebar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/layout-inner-right-sidebar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\layout-inner-right-sidebar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/map-google.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\map-google.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/map-vector.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\map-vector.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/page-layout-boxed-layout.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\page-layout-boxed-layout.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/page-layout-fixed-header-sidebar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\page-layout-fixed-header-sidebar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/page-layout-fixed-header.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\page-layout-fixed-header.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/page-layout-fixed-sidebar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\page-layout-fixed-sidebar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-animation.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-animation.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-block-ui.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-block-ui.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-gallery.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-gallery.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-invoice-list.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-invoice-list.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-invoice.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-invoice.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-maintenance.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-maintenance.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-profile.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-profile.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-search-result.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-search-result.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-session-idle-timeout.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-session-idle-timeout.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-session-timeout.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-session-timeout.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-treeview.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-treeview.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/pages-utility-classes.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\pages-utility-classes.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/starter-kit.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\starter-kit.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-bootstrap.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-bootstrap.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-dark-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-dark-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-datatable-advanced.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-datatable-advanced.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-datatable-api.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-datatable-api.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-datatable-basic.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-datatable-basic.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-editable.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-editable.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-footable.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-footable.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-jsgrid.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-jsgrid.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-layout-coloured.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-layout-coloured.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-responsive.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-responsive.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/table-sizing.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\table-sizing.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ticket-detail.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ticket-detail.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ticket-list.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ticket-list.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/timeline-center.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\timeline-center.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/timeline-horizontal.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\timeline-horizontal.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/timeline-left.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\timeline-left.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/timeline-right.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\timeline-right.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-accordian.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-accordian.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-badge.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-badge.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-bootstrap.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-bootstrap.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-breadcrumb.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-breadcrumb.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-buttons.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-buttons.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-card-customs.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-card-customs.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-card-draggable.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-card-draggable.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-card-weather.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-card-weather.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-cards.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-cards.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-carousel.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-carousel.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-custom-switch.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-custom-switch.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-grid.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-grid.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-lists.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-lists.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-modals.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-modals.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-notification.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-notification.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-offcanvas.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-offcanvas.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-progressbar.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-progressbar.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-scrollspy.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-scrollspy.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-spinner.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-spinner.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-tab.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-tab.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-toasts.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-toasts.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-tooltip-popover.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-tooltip-popover.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-typography.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-typography.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-user-card.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-user-card.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/ui-user-contacts.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\ui-user-contacts.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/widgets-apps.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\widgets-apps.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/widgets-charts.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\widgets-charts.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/widgets-data.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\widgets-data.html
+Content Type: text/html
+
+Uri: https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/dark/widgets-feeds.html
+File Name: E:\Jhara Projects\demos.wrappixel.com\premium-admin-templates\bootstrap\materialpro-bootstrap\package\html\dark\widgets-feeds.html
+Content Type: text/html
+
+Uri: https://unpkg.com/tableexport.jquery.plugin@1.28.0/tableExport.min.js
+File Name: E:\Jhara Projects\demos.wrappixel.com\tableexport.jquery.plugin@1.28.0\tableExport.min.js
+Content Type: application/javascript
+
